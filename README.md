@@ -6,7 +6,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=parbez01&theme=neon&hide_border=true&border_radius=5.4&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
-[<p align="center">(<img height="75" src="https://i.ibb.co/qCXDVs1/Facebook.png">)([https://www.facebook.com/nishatprofile?mibextid=ZbWKw](https://www.facebook.com/nishatprofile?mibextid=ZbWKwL))[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
 ## :computer: Technologies that I know
 
