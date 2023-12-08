@@ -17,22 +17,10 @@
 <img style='width:70px' src="https://i.ibb.co/bsFS7TG/icons8-html-48.png"/>
 <img style='width:70px' src="https://i.ibb.co/r5VryPR/icons8-css-48.png"/>
 <img style='width:70px' src="https://i.ibb.co/7JCKcZ9/icons8-javascript-48.png"/>
-
+<img style='width:70px' src="https://i.ibb.co/cN8yzK0/icons8-react-native-64.png"/>
 </p>
 
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+
 
 ## 👀 Current overview
 
