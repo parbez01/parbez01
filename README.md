@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
