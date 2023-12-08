@@ -14,9 +14,9 @@
 <br>
 
 <p align="center">
-<img style='width:100px' src="https://i.ibb.co/bsFS7TG/icons8-html-48.png"/>
-<img src="https://i.ibb.co/r5VryPR/icons8-css-48.png"/>
-<img src="https://i.ibb.co/7JCKcZ9/icons8-javascript-48.png"/>
+<img style='width:70px' src="https://i.ibb.co/bsFS7TG/icons8-html-48.png"/>
+<img style='width:70px' src="https://i.ibb.co/r5VryPR/icons8-css-48.png"/>
+<img style='width:70px' src="https://i.ibb.co/7JCKcZ9/icons8-javascript-48.png"/>
 
 </p>
 
