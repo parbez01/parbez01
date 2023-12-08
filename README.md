@@ -6,6 +6,8 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=parbez01&theme=neon&hide_border=true&border_radius=5.4&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 ## :computer: Technologies that I know
 
