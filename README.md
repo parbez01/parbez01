@@ -15,6 +15,8 @@
 
 <p align="center">
 <img src="https://i.ibb.co/bsFS7TG/icons8-html-48.png"/>
+<img src="https://i.ibb.co/r5VryPR/icons8-css-48.png"/>
+<img src="https://i.ibb.co/7JCKcZ9/icons8-javascript-48.png"/>
 
 </p>
 
