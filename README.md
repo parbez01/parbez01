@@ -17,7 +17,7 @@
 <img style='width:70px' src="https://i.ibb.co/bsFS7TG/icons8-html-48.png"/>
 <img style='width:70px' src="https://i.ibb.co/r5VryPR/icons8-css-48.png"/>
 <img style='width:70px' src="https://i.ibb.co/7JCKcZ9/icons8-javascript-48.png"/>
-<img style='width:70px' src="https://i.ibb.co/cN8yzK0/icons8-react-native-64.png"/>
+<img style='width:70px' src="https://i.ibb.co/8rw7T9N/free-react-1-282599.webp?fbclid=IwAR02IrbcinEI96Wo1zolxDfT7Ns6yaBs8HCCdOULjttqH3fwoqRZ1Mbv1gc"/>
 </p>
 
 
