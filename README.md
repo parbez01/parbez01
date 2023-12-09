@@ -1,4 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co/5cNZvqW/PARBEZ-MOSHAROF.png" />
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
