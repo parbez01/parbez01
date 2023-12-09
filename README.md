@@ -33,11 +33,11 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🔭 I’m working - with programing 
+### 🌱 I’m exploring - deeply database 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🤔 I’m trying - To help to be a senior develiper.
+### ⚡ Fun fact - I am funny person.
 
 
 <br />
