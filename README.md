@@ -34,7 +34,7 @@
 ### 🔭 I’m working - with programing 
 ### 🌱 I’m exploring - deeply database 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help to be a senior develiper.
+### 🤔 I’m trying -  To be a senior develiper.
 ### ⚡ Fun fact - I am funny person.
 
 
