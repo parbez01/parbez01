@@ -2,9 +2,9 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parbez01&theme=radical&card_width=800)](https://git.io/streak-stats)
-</p>
+
 
 ## 🌐 My Socials site:
 
