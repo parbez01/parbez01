@@ -22,7 +22,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nishatprofile?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mosharof_nishat) 
 
 
-## :computer: Technologies that I know
+## :computer: Comportable With that tools
 
 <br>
 <p align="center">
