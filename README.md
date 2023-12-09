@@ -26,7 +26,7 @@
 
 ## Another stats
 
-<<br>
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parbez01&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parbez01&theme=apprentice)
 
