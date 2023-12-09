@@ -24,7 +24,7 @@
 </p>
 
 
-## :states: Another stats
+## Another stats
 
 <<br />
 
