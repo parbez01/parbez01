@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5cNZvqW/PARBEZ-MOSHAROF.png" />
+<img style="height:500px" src="https://i.ibb.co/5cNZvqW/PARBEZ-MOSHAROF.png" />
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
