@@ -1,3 +1,12 @@
+### A few things about me
+- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
+- Coffee, photography, music and art are my happy places. 
+- I enjoy bringing a static design or idea to life and learning new technologies.
+- I am student of Bangladesh University of Business and Technology
+
+
+<br>
+
 
 ## :chart_with_upwards_trend: Current Stats
 
